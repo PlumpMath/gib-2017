@@ -1,0 +1,19 @@
+# Setup
+title:        지브롤터 2017
+tagline:      세종과학예술영재학교 정보과학 자율동아리
+baseurl:      ""
+limit_posts:  10
+paginate:     1
+future:       1
+
+# About/contact
+author:
+  name:       노정훈 (studiodoth)
+  url:        http://facebook.com/jhnohjhnoh
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
